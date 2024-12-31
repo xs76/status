@@ -123,9 +123,7 @@ params:
   categories:
     - name: Cloudflare Canada
       description: The main servers are located here.
-      closed: true
-    - name: Servers
-      untitled: false
+      closed: false
 
   # Define the systems
   systems:
